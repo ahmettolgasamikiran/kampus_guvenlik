@@ -1,4 +1,4 @@
-## Campus Security & Incident Reporting App 🛡️
+## Campus Security & Incident Reporting App 
 
 ## Project Overview
 This is a mobile application developed with **Flutter** to improve safety and communication within the university campus. The app allows users to quickly report incidents (such as security issues, health emergencies, or technical failures) and track their status in real-time.
@@ -28,7 +28,7 @@ This is a mobile application developed with **Flutter** to improve safety and co
 ## 📸 Screenshots
 
 | Login Screen | Add Report | Report Detail |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="login.jpg" width="200"> | <img src="add_report.jpg" width="200"> | <img src="detail.jpg" width="200"> |
 
 ## How to Run
